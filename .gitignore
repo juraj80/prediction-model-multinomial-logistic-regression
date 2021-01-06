@@ -1,0 +1,10 @@
+bin/
+data/
+example_projects/
+include/
+lib/
+notes.txt
+older_version/
+share/
+.ipynb_checkpoints/
+pyvenv.cfg
